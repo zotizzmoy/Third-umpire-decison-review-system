@@ -1,4 +1,4 @@
-# All media file is available for download as a zip file
+
 import tkinter
 import cv2  # pip install opencv-python
 import PIL.Image, PIL.ImageTk  # pip install pillow
